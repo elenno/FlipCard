@@ -1,0 +1,65 @@
+{
+	"resources": [
+		{
+			"name": "pic",
+			"type": "image",
+			"url": "assets/pic.jpg"
+		},
+		{
+			"name": "pic0",
+			"type": "image",
+			"url": "assets/pic0.jpg"
+		},
+		{
+			"name": "pic1",
+			"type": "image",
+			"url": "assets/pic1.jpg"
+		},
+		{
+			"name": "pic2",
+			"type": "image",
+			"url": "assets/pic2.jpg"
+		},
+		{
+			"name": "pic3",
+			"type": "image",
+			"url": "assets/pic3.jpg"
+		},
+		{
+			"name": "pic4",
+			"type": "image",
+			"url": "assets/pic4.jpg"
+		},
+		{
+			"name": "pic5",
+			"type": "image",
+			"url": "assets/pic5.jpg"
+		},
+		{
+			"name": "pic6",
+			"type": "image",
+			"url": "assets/pic6.jpg"
+		},
+		{
+			"name": "pic7",
+			"type": "image",
+			"url": "assets/pic7.jpg"
+		},
+		{
+			"name": "pic8",
+			"type": "image",
+			"url": "assets/pic8.jpg"
+		},
+		{
+			"name": "pic9",
+			"type": "image",
+			"url": "assets/pic9.jpg"
+		}
+	],
+	"groups": [
+		{
+			"name": "pictures",
+			"keys": "pic,pic0,pic1,pic2,pic3,pic4,pic5,pic6,pic7,pic8,pic9"
+		}
+	]
+}
